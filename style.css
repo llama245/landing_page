@@ -164,3 +164,47 @@ button {
     padding-right: 150px;
     padding-top: 10px;
 }
+
+.fourth {
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.tele {
+    border-radius: 8px;
+    width: 800px; 
+    height: auto;
+    background-color: #3882F6;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.call {
+    font-weight: bold;
+}
+
+.slp {
+    font-weight: normal;
+    padding-top: 10px;
+}
+
+.plp {
+    border: 2px solid #f9faf8;
+    padding: 5px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
